@@ -14,4 +14,4 @@ services:
 
 networks:
   learningplatform:
-    external: true
+    name: learningplatform
